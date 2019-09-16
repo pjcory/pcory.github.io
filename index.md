@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to PJ's Site!
 
-You can use the [editor on GitHub](https://github.com/pjcory/pcory.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Testing, testing, 1, 2...
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Check this out:
 
 ```markdown
 Syntax highlighted code block
@@ -15,11 +13,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Wow
+- So Cool
 
-1. Numbered
-2. List
+1. Hey look,
+2. a list!
 
 **Bold** and _Italic_ and `Code` text
 
