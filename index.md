@@ -20,7 +20,7 @@ Syntax highlighted code block
 2. a list!
 
 **Some BOLDED Text** and _Fancy Italics_ and `Some Code` text
-
+```
 
 ### Support or Contact
 
